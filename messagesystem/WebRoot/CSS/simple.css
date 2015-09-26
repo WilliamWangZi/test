@@ -1,0 +1,48 @@
+@CHARSET "UTF-8";
+.page-head{
+	margin-bottom:10px;
+	padding-left:10px;
+	border-bottom:0px;
+	margin-top:20px;
+	position:absolute;
+}
+.res{
+	clear:both;
+	padding-top:5px;
+	border-top:1px solid #f0e2e2;
+}
+.drop2{
+	margin:5px;
+	float:right;
+	margin-top:30px;
+	margin-bottom:20px;
+	font-size:16px;
+	font-weight:bolder;
+	background-color:rgb(84, 151, 226);
+}
+.drop1{
+	margin:5px;
+	float:left;
+	margin-top:30px;
+	margin-bottom:20px;
+	font-size:16px;
+	font-weight:bolder;
+	background-color:rgb(84, 151, 226);
+}
+@media (min-width: 993px){
+.dropall{
+	margin-left:460px;
+	margin-right:50px;
+}
+}
+@media(max-width:992px){
+	.dropall{
+	float:right;
+	}
+}
+.histog{
+	float:left;
+}
+.stack{
+	clear:both;
+}

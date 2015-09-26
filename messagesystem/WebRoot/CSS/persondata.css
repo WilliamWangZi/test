@@ -1,0 +1,17 @@
+@CHARSET "UTF-8";
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	margin-left:200px;
+	margin-right:200px;
+}
+.form-control{
+	width:50%;
+	right:0;
+	
+}
+.sp{
+	padding:5px;
+}
